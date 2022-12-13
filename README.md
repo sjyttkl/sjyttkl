@@ -1,5 +1,5 @@
 - 👋 Hi, I’m xiaodong
-- 👀 I’m interested in ML 、NLP 、 KG、Ojbect detect
+- 👀 I’m interested in ML 、NLP 、 KG、Object detect
 - 🌱 I’m currently learning Ojbect detect
 - 💞️ I’m looking to collaborate on China or US
 - 📫 How to reach me 6954928352@qq.com
